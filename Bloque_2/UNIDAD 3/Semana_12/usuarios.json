@@ -1,0 +1,14 @@
+{
+    "U001": {
+        "nombre": "Ana Garc\u00eda",
+        "id_usuario": "U001",
+        "libros_prestados": []
+    },
+    "u002": {
+        "nombre": "Gissela Medina",
+        "id_usuario": "u002",
+        "libros_prestados": [
+            "2"
+        ]
+    }
+}

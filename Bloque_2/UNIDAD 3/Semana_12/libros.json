@@ -1,0 +1,37 @@
+{
+    "9780307476463": {
+        "titulo": "Cien a\u00f1os de soledad",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "categoria": "Novela",
+        "isbn": "9780307476463",
+        "disponible": true
+    },
+    "9780062315007": {
+        "titulo": "El Alquimista",
+        "autor": "Paulo Coelho",
+        "categoria": "Ficci\u00f3n",
+        "isbn": "9780062315007",
+        "disponible": true
+    },
+    "9788420412146": {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "categoria": "Cl\u00e1sico",
+        "isbn": "9788420412146",
+        "disponible": true
+    },
+    "2": {
+        "titulo": "2",
+        "autor": "2",
+        "categoria": "2",
+        "isbn": "2",
+        "disponible": false
+    },
+    "4": {
+        "titulo": "4",
+        "autor": "4",
+        "categoria": "4",
+        "isbn": "4",
+        "disponible": true
+    }
+}
